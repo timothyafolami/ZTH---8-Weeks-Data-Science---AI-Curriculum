@@ -1,2 +1,6 @@
 pyforest
 notebook
+pandas
+numpy
+seaborn
+matplotlib
