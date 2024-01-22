@@ -15,7 +15,7 @@ To run the code, ensure you have Anaconda and Python installed on your PC. For a
 
 #### Using Conda
 ```bash
-conda create --name ZTH-DS python=3.8
+conda create --name ZTH-DS python=3.10
 conda activate ZTH-DS
 pip install -r requirements.txt
 
