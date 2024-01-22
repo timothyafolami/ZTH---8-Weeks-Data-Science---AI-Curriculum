@@ -2,7 +2,7 @@
 Welcome to the ZION TECH HUB Data Science & AI Mentorship Program
 
 
-![ZTH](<zth pic.jpg>)
+![ZTH pic](<zth pic-1.jpg>)
 
 
 
