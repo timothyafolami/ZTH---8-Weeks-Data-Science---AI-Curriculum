@@ -1,6 +1,10 @@
-# Welcome to the ZION TECH HUB Data Science & AI Mentorship Program
+#
+Welcome to the ZION TECH HUB Data Science & AI Mentorship Program
+
 
 ![ZTH](<zth pic.jpg>)
+
+
 
 ## Welcome
 🚀 Welcome to the 8-week Data Science and AI mentorship program by ZION TECH HUB! We are excited to embark on this journey with you.
@@ -16,17 +20,23 @@ conda activate ZTH-DS
 pip install -r requirements.txt
 
 ```
+
 #### Using Python Virtual Env
+
 ```
+
 python -m venv ZTH-DS
 source ZTH-DS/bin/activate   # On Windows: .\ZTH-DS\Scripts\activate
 pip install -r requirements.txt
+
 ```
 ## Program Curriculum
 
 ### 8 weeks Data Science and AI curriculum
 
+
 #### Week 1: Introduction to Python Basics
+
     Introduction to Python and its relevance in data science
     Setting up the Python environment (Anaconda, Jupyter Notebooks)
     Python syntax, variables, and data types
@@ -37,12 +47,14 @@ pip install -r requirements.txt
     Basic hands-on exercises to reinforce concepts
 
 #### Week 2: Python Basics Continued
+
     Lists, tuples, dictionaries, and sets
     Operations on different data structures
     Manipulating and querying data structures
     Reading and writing files in Python
 
 #### Week 3: Data Analysis and statistical analysis with Python
+
     Data Cleaning and EDA
     Handling missing data
     Data wrangling with Pandas
@@ -56,12 +68,14 @@ pip install -r requirements.txt
 
 
 #### Week 4: Introduction to Database Management System
+
     Mongo DB
     My Sql
     Apache Cassandra Database
 
 
 #### Week 5: Machine Learning Fundamentals with Scikit-Learn
+
     Overview of machine learning types (supervised, unsupervised)
     Introduction to Scikit-Learn
     Choosing the right model for a task
@@ -73,6 +87,7 @@ pip install -r requirements.txt
 
 
 #### Week 6: Introduction to Neural Networks and Deep Learning
+
     Understanding neurons and layers
     Activation functions
     Loss Functions
@@ -88,6 +103,7 @@ pip install -r requirements.txt
 
 
 #### Week 7: Natural Language Processing (NLP) and Text Mining
+
     Basics of NLP.
     Text preprocessing 
     Sentiment analysis.
@@ -98,6 +114,7 @@ pip install -r requirements.txt
 
 
 #### Week 8: MLOPs techniques
+
     Github Action CI/CD pipelines
     Circle CI
     Kubeflow
@@ -113,6 +130,7 @@ pip install -r requirements.txt
 
 
 # Updates
+
 ℹ️ Stay tuned for updates as the program progresses. More exciting content coming your way!
 
 Support and Contact
